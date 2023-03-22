@@ -1,0 +1,5 @@
+header::after{
+    display:block ;
+    content: '';
+    height: 70px;
+}
